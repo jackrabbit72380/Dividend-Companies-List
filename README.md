@@ -1,79 +1,76 @@
 # Dividend-Companies-List
 Dividend Companies List
 
-Dividend Companies List (Sorted by Highest Yield) - Nov 7, 2025
+Dividend Companies List (Sorted by Highest Yield) - Nov 7-11, 2025
 _______________________________________________________________________________________________________________________________________________________________________________________________________________
-Rank| Ticker | Company                                       |Dividend Yield (%)| Share Price ($) | Daily Change (%) | Market Cap ($B) | Risk Level            | Sector                 |M |Payment Frequency
+# |Tick| Company                                        |Yield%|Price$)|Change%|MCap$B |Risk Level             | Sector                  |M |Payment Frequency
 _______________________________________________________________________________________________________________________________________________________________________________________________________________
-00 | HRZN    | Horizon Technology Finance Corporation          | 19.73          | 6.07            | 0.00             | 0.26            | Moderate (N/A)        | Financials (BDC)          |Monthly-40 Day's
-1  | ARR     | ARMOUR Residential REIT, Inc.                   | 17.12          | 16.02           | -0.54            | 1.8             | High (Beta: 1.44)     | Real Estate               |Monthly-40 Day's
-2  | ABR     | Arbor Realty Trust                              | 15.48          | 11.17           | N/A              | 2.20            | High (Beta: 1.33)     | Real Estate               |Monthly-40 Day's
-4  | IIPR    | Innovative Industrial Properties                | 14.91          | 50.16           | N/A              | 1.40            | High (Beta: 1.52)     | Real Estate               |Quarterly-3 Month's
-5  | PNNT    | PennantPark Investment Corp                     | 14.81          | 6.48            | N/A              | 0.42            | Moderate (Beta: 0.63) | Financial Services        |Monthly-40 Day's
-6  | AGNC    | AGNC Investment Corp.                           | 14.10          | 10.16           | -0.02            | 10.93           | High (Beta: 1.36)     | Real Estate               |Monthly-40 Day's
-7  | QQQI    | NEOS NASDAQ-100 High Income ETF                 | 13.65          | N/A             | N/A              | N/A             | Low (Beta: 0.00)      | ETF - Technology        1 |Monthly-40 Day's
-8  | PFLT    | PennantPark Floating Rate Capital               | 13.49          | 8.97            | N/A              | 0.90            | Moderate (Beta: 0.96) | Financial Services        |Monthly-40 Day's
-9  | LYB     | LyondellBasell Industries N.V.                  | 12.53          | 9.54            | 0.06             | 15.31           | Moderate (Beta: 0.75) | Basic Materials           |Quarterly-3 Month's
-10 | CSWC    | Capital Southwest Corp.                         | 12.29          | 5.84            | -0.05            | 1.16            | Moderate (Beta: 0.99) | Financial Services        |Quarterly-3 Month's
-11 | SPYI    | NEOS S&P 500 High Income ETF                    | 11.59          | 52.80           |                  | 5.9B            | Low                   | Sector Allocation       2 |Monthly-40 Day's 
-12 | EFC     | Ellington Financial Inc.                        | 11.32          | 13.41           | 0.05             | 1.34            | Low                   | Real Estate             3 |Monthly-40 Day's
-00 | GOOD    | Gladstone Commercial Corporation                | 10.66          |  N/A            | N/A              | N/A             | Moderate (N/A)        | Real Estate (REIT)        |Monthly-40 Day's
-13 | OMAH    | VISTASHARES TRGT 15 BERKSHIRE SELECT INCOME ETF | 10.06          | 19.09           |                  | 627.3M          | Low                   | Sector Allocation       4 |Monthly-40 Day's
-14 | ENB     | Enbridge Inc.                                   | 9.80           | 47.21           | 0.28             | 102.66          | Moderate (Beta: 0.82) | Energy                    |Quarterly-3 Month's
-15 | ARCC    | Ares Capital Corporation                        | 9.60           | 20.20           | +1.00            | 9.73            | Moderate (Beta: 0.62) | Financial Services        |Quarterly-3 Month's
-16 | WES     | Western Midstream Partners, LP                  | 9.36           | 37.53           | +1.23            | 15.3            | Moderate (Beta: 0.74) | Energy                    |Quarterly-3 Month's
-17 | CTO     | CTO Realty Growth                               | 8.75           | 17.36           | 0.16             | 562.3M          | Low                   | Real Estate               |Quarterly-3 Month's
-18 | USAC    | USA Compression Partners LP                     | 8.70           | 22.06           | N/A              | 2.70            | Medium                | Energy                    |Quarterly-3 Month's
-19 | SUN     | Sunoco LP                                       | 8.59           | 53.02           | N/A              | 7.30            | Medium                | Energy                    |Quarterly-3 Month's
-20 | MPLX    | MPLX LP                                         | 7.62           | N/A             | N/A              | 52.7B           | Moderate              | Energy                    |Quarterly-3 Month's
-21 | ET      | Energy Transfer LP                              | 7.74           | 16.80           | N/A              | 57.60           | Medium                | Energy                    |Quarterly-3 Month's
-22 | UHT     | Universal Health Realty Income Trust            | 7.55           | 39.26           |                  | 541.8M          | Moderate              | Real Estate               |Quarterly-3 Month's
-23 | MO      | Altria Group, Inc.                              | 7.19           | 64.40           | -1.00            | 109.28          | Low (Beta: 0.50)      | Consumer Defensive        |Quarterly-3 Month's
-24 | EPD     | Enterprise Products Partners L.P.               | 6.91           | 30.67           | -0.20            | 65.37           | Low (Beta: 0.58)      | Energy                    |Quarterly-3 Month's
-25 | EPR     | EPR Property's                                  | 6.87           | 51.04           | +8.05%           | 3.9B            | High (Beta: 1.94)     | Real Estate               |Monthly-40 Day's
-26 | VZ      | Verizon Communications Inc.                     | 6.80           | 39.90           | 0.62             | 168.8B          | Low (Beta: 0.32)      | Communication Services    |Quarterly-3 Month's
-00 | GAIN    | Gladstone Investment Corporation                | 6.73           | 13.87           | N/A              | 0.55            | Low (0.81)            | Financials (BDC)        5 |Monthly-40 Day's
-27 | LTC     | LTC Property's                                  | 6.35           | 36.00           |+1.11%            | 1.7B            | Low (Beta: 0.62)      | Real Estate             6 |Monthly-40 Day's
-28 | AMCR    | Amcor Plc                                       | 6.03           | 8.50                               | 5               | Borderline Safe-bought| Materials                 |Quarterly
-29 | SWK     | Stanley Black & Decker, Inc.                    | 6.01           | 68.31           | N/A              | 10.60           | High (Beta: 1.20)     | Industrials               |Quarterly-3 Month's
-30 | BCH     | Banco de Chile                                  | 5.77           | 34.58           | +0.56            | 17.6            | Low (Beta: 0.11)      | Financial Services        |Quarterly-3 Month's
-31 | BTI     | British American Tobacco p.l.c.                 | 5.52           | 51.16           | -0.89            | 112.46          | Low (Beta: 0.06)      | Consumer Defensive        |Quarterly-3 Month's
-32 | O       | Realty Income Corporation                       | 5.64           | 60.64           | 1.17             | 54.80           | Moderate (Beta: 0.81) | Real Estate               |Monthly-40 Day's
-33 | GIS     | General Mills, Inc.                             | 5.26           | 48.81           | 0.87             | 25.81           | Low (Beta: -0.07)     | Consumer Defensive        |Quarterly-3 Month's
-34 | Main    | Main Street Capital                             | 5.51           | 59.09           |-0.02%            | 5.2B            | Low (Beta: 0.81)      | Financial Services      7 |Monthly-40 Day's
-35 | HRL     | Hormel Foods Corp.                              | 5.15           | 22.46                              | 59              | Very Safe-------bought| Consumer Staples          |Quarterly-3 Month's
-36 | KEY     | KeyCorp                                         | 4.66           | 17.42           | N/A              | 19.20           | High (Beta: 1.11)     | Financial Services        |Quarterly-3 Month's
-37 | F       | Ford Motor Company                              | 4.55           | 11.99           | 0.59             | 47.44           | High (Beta: 1.61)     | Consumer Cyclical         |Quarterly-3 Month's
-38 | T       | AT&T Inc.                                       | 4.49           | 26.10           | -0.91            | 188.34          | Moderate (Beta: 0.60) | Communication Services    |Quarterly-3 Month's
-39 | CVX     | Chevron Corporation                             | 4.42           | 154.48          | 0.91             | 308.43          | Moderate (Beta: 0.67) | Energy                    |Quarterly-3 Month's
-40 | SGOV    | iShares 0-3 Month Treasury Bond ETF             | 4.21           | 100.58          | 0.01             | N/A             | Low (Beta: 0.00)      | ETF - Fixed Income      8 |Monthly-40 Days 
-41 | USB     | U.S. Bancorp                                    | 4.27           | 47.10           | 3.09             | 71.09           | High (Beta: 1.12)     | Financial Services        |Quarterly-3 Month's
-42 | BHP     | BHP Group Limited                               | 3.99           | 55.20           | -1.59            | 141.20          | Moderate (Beta: 0.68) | Basic Materials           |Semi-Annual-6 Months
-43 | PM      | Philip Morris International Inc.                | 3.68           | 158.06          | 0.00             | 246.03          | Low (Beta: 0.44)      | Consumer Defensive        |Quarterly-3 Month's
-00 | PECO    | Phillips Edison & Company, Inc.                 | 3.58           | 34.64           | 0.00             | 4.4B            | Low (0.45)            | Real Estate (REIT)      9 |Monthly-40 Day's
-44 | DVN     | Devon Energy Corporation                        | 3.50           | 32.51           | +3.30            | 20.6            | Moderate (Beta: 0.68) | Energy                    |Quarterly-3 Month's
-45 | UNH     | UnitedHealth Group Incorporated                 | 3.33           | 364.48          | 2.21             | 322.96          | Low (Beta: 0.43)      | Healthcare                |Quarterly-3 Month's
-46 | LEA     | Lear Corporation                                | 2.84           | 99.06           | -0.40            | 5.29            | High (Beta: 1.34)     | Consumer Cyclical         |Quarterly-3 Month's
-47 | JNJ     | Johnson & Johnson                               | 2.72           | 193.72          | 0.26             | 465.34          | Low                   | Healthcare                |Quarterly-3 Month's
-48 | IBM     | International Business Machines Corporation     | 2.72           | 283.65          | 0.84             | 262.02          | Moderate (Beta: 0.69) | Technology                |Quarterly-3 Month's
-49 | XOP     | SPDR S&P Oil & Gas Exploration & Production ETF | 2.52           | 125.27          | 1.38             | N/A             | Moderate (Beta: 0.85) | ETF - Energy              |Quarterly-3 Month's
-50 | FRDM    | Alpha Architect Freedom 100 Emerging Market ETF | 2.20           | 47.02           | 1.28             | N/A             | Medium                | ETF - Emerging Markets    |Quarterly-3 Month's
-51 | MMM     | 3M Company                                      | 2.19           | 165.49          | 1.40             | 88.40           | High (Beta: 1.15)     | Industrials               |Quarterly-3 Month's
-52 | TMUS    | T-Mobile US, Inc.                               | 2.19           | 230.09          | 0.33             | 258.09          | Low (Beta: 0.44)      | Communication Services    |Quarterly-3 Month's
-53 | YUMC    | Yum China Holdings, Inc.                        | 2.04           | 42.95           | N/A              | 16.10           | Low (Beta: 0.14)      | Consumer Cyclical         |Semi-Annual -6 Months
-54 | ROK     | Rockwell Automation, Inc.                       | 1.45           | 365.81          | N/A              | 41.10           | Medium                | Industrials               |Quarterly-3 Month's
-55 | VOO     | Vanguard S&P 500 ETF                            | 1.14           | 622.55          | 0.83             | 1410.00         | Moderate (Beta: 1.00) | ETF - Broad Market        |Quarterly-3 Month's
-56 | VTI     | Vanguard Total Stock Market ETF                 | 1.14           | 328.90          | -0.61            | 2020.00         | Moderate (Beta: 1.04) | ETF - Broad Market        |Quarterly-3 Month's
-57 | SPY     | SPDR S&P 500 ETF Trust                          | 1.08           | 677.25          | 0.82             | 673.00          | Moderate (Beta: 1.00) | ETF - Broad Market        |Quarterly-3 Month's
-58 | TSM     | Taiwan SemiconductorManufacturingCompanyLimited | 1.00           | 297.70          | 0.89             | 1530.44         | High (Beta: 1.26)     | Technology                |Semi-Annual-6 Months
-59 | BABA    | Alibaba Group Holding Limited                   | 0.63           | 173.47          | 3.84             | 387.39          | Low (Beta: 0.32)      | Consumer Cyclical         |Annual-1 Year
-60 | MA      | Mastercard Incorporated                         | 0.55           | 548.89          | N/A              | 500.50          | Moderate              | Financial Services        |Quarterly-3 Month's
-61 | QQQ     | Invesco QQQ Trust                               | 0.46           | 634.17          | +3.30            | 407.6           | Moderate (Beta: 1.10) | ETF - Broad Market        |Quarterly-3 Month's
-62 | NTDOY   | Nintendo Co., Ltd.                              | 0.39           | 21.30           | 1.72             | 99.68           | Low (Beta: 0.37)      | Communication Services    |Annual-1 Year
-63 | AAPL    | Apple Inc.                                      | 0.38           | 276.99          | N/A              | 4000.00         | Moderate (Beta: 1.11) | Technology                |Quarterly-3 Month's
-
-
-
+0 |HRZN| Horizon Technology Finance Corporation         | 19.73| 6.07  | 0.00  | 0.26  | Moderate (N/A)        | Financials (BDC)          |Monthly-40 Day's
+1 |ARR | ARMOUR Residential REIT, Inc.                  | 17.12| 16.02 | -0.54 | 1.8   | High (Beta: 1.44)     | Real Estate               |Monthly-40 Day's
+2 |ABR | Arbor Realty Trust                             | 15.48| 11.17 | N/A   | 2.20  | High (Beta: 1.33)     | Real Estate               |Monthly-40 Day's
+4 |IIPR| Innovative Industrial Properties               | 14.91| 50.16 | N/A   | 1.40  | High (Beta: 1.52)     | Real Estate               |Quarterly-3 Month's
+5 |PNNT| PennantPark Investment Corp                    | 14.81| 6.48  | N/A   | 0.42  | Moderate (Beta: 0.63) | Financial Services        |Monthly-40 Day's
+6 |AGNC| AGNC Investment Corp.                          | 14.10| 10.16 | -0.02 | 10.93 | High (Beta: 1.36)     | Real Estate               |Monthly-40 Day's
+7 |QQQI| NEOS NASDAQ-100 High Income ETF                | 13.65| N/A   | N/A   | N/A   | Low (Beta: 0.00)      | ETF - Technology        1 |Monthly-40 Day's
+8 |PFLT| PennantPark Floating Rate Capital              | 13.49| 8.97  | N/A   | 0.90  | Moderate (Beta: 0.96) | Financial Services        |Monthly-40 Day's
+9 |LYB | LyondellBasell Industries N.V.                 | 12.53| 9.54  | 0.06  | 15.31 | Moderate (Beta: 0.75) | Basic Materials           |Quarterly-3 Month's
+10|CSWC| Capital Southwest Corp.                        | 12.29| 5.84  | -0.05 | 1.16  | Moderate (Beta: 0.99) | Financial Services        |Quarterly-3 Month's
+11|SPYI| NEOS S&P 500 High Income ETF                   | 11.59| 52.80 |       | 5.9B  | Low                   | Sector Allocation       2 |Monthly-40 Day's 
+12|EFC | Ellington Financial Inc.                       | 11.32| 13.41 | 0.05  | 1.34  | Low                   | Real Estate             3 |Monthly-40 Day's
+00|GOOD| Gladstone Commercial Corporation               | 10.66|  N/A  | N/A   | N/A   | Moderate (N/A)        | Real Estate (REIT)        |Monthly-40 Day's
+13|OMAH| VISTASHARES TRGT 15 BERKSHIRE SELECT INCOME ETF| 10.06| 19.09 |       | 627.3 | Low                   | Sector Allocation       4 |Monthly-40 Day's
+14|ENB | Enbridge Inc.                                  | 9.80 | 47.21 | 0.28  |102.66 | Moderate (Beta: 0.82) | Energy                    |Quarterly-3 Month's
+15|ARCC| Ares Capital Corporation                       | 9.60 | 20.20 | +1.00 | 9.73  | Moderate (Beta: 0.62) | Financial Services        |Quarterly-3 Month's
+16|WES | Western Midstream Partners, LP                 | 9.36 | 37.53 | +1.23 | 15.3  | Moderate (Beta: 0.74) | Energy                    |Quarterly-3 Month's
+17|CTO | CTO Realty Growth                              | 8.75 | 17.36 | 0.16  | 562.3 | Low                   | Real Estate               |Quarterly-3 Month's
+18|USAC| USA Compression Partners LP                    | 8.70 | 22.06 | N/A   | 2.70  | Medium                | Energy                    |Quarterly-3 Month's
+19|SUN | Sunoco LP                                      | 8.59 | 53.02 | N/A   | 7.30  | Medium                | Energy                    |Quarterly-3 Month's
+20|MPLX| MPLX LP                                        | 7.62 | N/A   | N/A   | 52.7B | Moderate              | Energy                    |Quarterly-3 Month's
+21|ET  | Energy Transfer LP                             | 7.74 | 16.80 | N/A   | 57.60 | Medium                | Energy                    |Quarterly-3 Month's
+22|UHT | Universal Health Realty Income Trust           | 7.55 | 39.26 |       | 541.8 | Moderate              | Real Estate               |Quarterly-3 Month's
+23|MO  | Altria Group, Inc.                             | 7.19 | 64.40 | -1.00 |109.28 | Low (Beta: 0.50)      | Consumer Defensive        |Quarterly-3 Month's
+24|EPD | Enterprise Products Partners L.P.              | 6.91 | 30.67 | -0.20 | 65.37 | Low (Beta: 0.58)      | Energy                    |Quarterly-3 Month's
+25|EPR | EPR Property's                                 | 6.87 | 51.04 | +8.05 | 3.9B  | High (Beta: 1.94)     | Real Estate               |Monthly-40 Day's
+26|VZ  | Verizon Communications Inc.                    | 6.80 | 39.90 | 0.62  | 168.8 | Low (Beta: 0.32)      | Communication Services    |Quarterly-3 Month's
+00|GAIN| Gladstone Investment Corporation               | 6.73 | 13.87 | N/A   | 0.55  | Low (0.81)            | Financials (BDC)        5 |Monthly-40 Day's
+27|LTC | LTC Property's                                 | 6.35 | 36.00 |+1.11  | 1.7B  | Low (Beta: 0.62)      | Real Estate             6 |Monthly-40 Day's
+28|AMCR| Amcor Plc                                      | 6.03 | 8.50  |       | 5     | Borderline Safe-bought| Materials                 |Quarterly
+29|SWK | Stanley Black & Decker, Inc.                   | 6.01 | 68.31 | N/A   | 10.60 | High (Beta: 1.20)     | Industrials               |Quarterly-3 Month's
+30|BCH | Banco de Chile                                 | 5.77 | 34.58 | +0.56 | 17.6  | Low (Beta: 0.11)      | Financial Services        |Quarterly-3 Month's
+31|BTI | British American Tobacco p.l.c.                | 5.52 | 51.16 | -0.89 |112.46 | Low (Beta: 0.06)      | Consumer Defensive        |Quarterly-3 Month's
+32|O   | Realty Income Corporation                      | 5.64 | 60.64 | 1.17  | 54.80 | Moderate (Beta: 0.81) | Real Estate               |Monthly-40 Day's
+33|GIS | General Mills, Inc.                            | 5.26 | 48.81 | 0.87  | 25.81 | Low (Beta: -0.07)     | Consumer Defensive        |Quarterly-3 Month's
+34|Main| Main Street Capital                            | 5.51 | 59.09 |-0.02  | 5.2B  | Low (Beta: 0.81)      | Financial Services      7 |Monthly-40 Day's
+35|HRL | Hormel Foods Corp.                             | 5.15 | 22.46         | 59    | Very Safe-------bought| Consumer Staples          |Quarterly-3 Month's
+36|KEY | KeyCorp                                        | 4.66 | 17.42 | N/A   | 19.20 | High (Beta: 1.11)     | Financial Services        |Quarterly-3 Month's
+37|F   | Ford Motor Company                             | 4.55 | 11.99 | 0.59  | 47.44 | High (Beta: 1.61)     | Consumer Cyclical         |Quarterly-3 Month's
+38|T   | AT&T Inc.                                      | 4.49 | 26.10 | -0.91 |188.34 | Moderate (Beta: 0.60) | Communication Services    |Quarterly-3 Month's
+39|CVX | Chevron Corporation                            | 4.42 | 154.48| 0.91  |308.43 | Moderate (Beta: 0.67) | Energy                    |Quarterly-3 Month's
+40|SGOV| iShares 0-3 Month Treasury Bond ETF            | 4.21 | 100.58| 0.01  | N/A   | Low (Beta: 0.00)      | ETF - Fixed Income      8 |Monthly-40 Days 
+41|USB | U.S. Bancorp                                   | 4.27 | 47.10 | 3.09  | 71.09 | High (Beta: 1.12)     | Financial Services        |Quarterly-3 Month's
+42|BHP | BHP Group Limited                              | 3.99 | 55.20 | -1.59 |141.20 | Moderate (Beta: 0.68) | Basic Materials           |Semi-Annual-6 Months
+43|PM  | Philip Morris International Inc.               | 3.68 | 158.06| 0.00  |246.03 | Low (Beta: 0.44)      | Consumer Defensive        |Quarterly-3 Month's
+00|PECO| Phillips Edison & Company, Inc.                | 3.58 | 34.64 | 0.00  | 4.4B  | Low (0.45)            | Real Estate (REIT)      9 |Monthly-40 Day's
+44|DVN | Devon Energy Corporation                       | 3.50 | 32.51 | +3.30 | 20.6  | Moderate (Beta: 0.68) | Energy                    |Quarterly-3 Month's
+45|UNH | UnitedHealth Group Incorporated                | 3.33 | 364.48| 2.21  |322.96 | Low (Beta: 0.43)      | Healthcare                |Quarterly-3 Month's
+46|LEA | Lear Corporation                               | 2.84 | 99.06 | -0.40 | 5.29  | High (Beta: 1.34)     | Consumer Cyclical         |Quarterly-3 Month's
+47|JNJ | Johnson & Johnson                              | 2.72 | 193.72| 0.26  |465.34 | Low                   | Healthcare                |Quarterly-3 Month's
+48|IBM | International Business Machines Corporation    | 2.72 | 283.60| 0.84  |262.02 | Moderate (Beta: 0.69) | Technology                |Quarterly-3 Month's
+49|XOP | SPDR S&P Oil & Gas Exploration & Production ETF| 2.52 | 125.27| 1.38  | N/A   | Moderate (Beta: 0.85) | ETF - Energy              |Quarterly-3 Month's
+50|FRDM| Alpha Architect Freedom 100 Emerging Market ETF| 2.20 | 47.02 | 1.28  | N/A   | Medium                | ETF - Emerging Markets    |Quarterly-3 Month's
+51|MMM | 3M Company                                     | 2.19 | 165.49| 1.40  | 88.40 | High (Beta: 1.15)     | Industrials               |Quarterly-3 Month's
+52|TMUS| T-Mobile US, Inc.                              | 2.19 | 230.09| 0.33  |258.09 | Low (Beta: 0.44)      | Communication Services    |Quarterly-3 Month's
+53|YUMC| Yum China Holdings, Inc.                       | 2.04 | 42.95 | N/A   | 16.10 | Low (Beta: 0.14)      | Consumer Cyclical         |Semi-Annual -6 Months
+54|ROK | Rockwell Automation, Inc.                      | 1.45 | 365.81| N/A   | 41.10 | Medium                | Industrials               |Quarterly-3 Month's
+55|VOO | Vanguard S&P 500 ETF                           | 1.14 | 622.55| 0.83  |1410.00| Moderate (Beta: 1.00) | ETF - Broad Market        |Quarterly-3 Month's
+56|VTI | Vanguard Total Stock Market ETF                | 1.1  | 328.90| -0.61 |2020.00| Moderate (Beta: 1.04) | ETF - Broad Market        |Quarterly-3 Month's
+57|SPY | SPDR S&P 500 ETF Trust                         | 1.08 | 677.25| 0.82 | 673.00 | Moderate (Beta: 1.00) | ETF - Broad Market        |Quarterly-3 Month's
+58|TSM | Taiwan SemiconductorManufacturingCompanyLimited| 1.00 | 297.70| 0.89  |1530.44| High (Beta: 1.26)     | Technology                |Semi-Annual-6 Months
+59|BABA| Alibaba Group Holding Limited                  | 0.63 | 173.47| 3.84  |387.39 | Low (Beta: 0.32)      | Consumer Cyclical         |Annual-1 Year
+60|MA  | Mastercard Incorporated                        | 0.55 | 548.89| N/A   |500.50 | Moderate              | Financial Services        |Quarterly-3 Month's
+61|QQQ | Invesco QQQ Trust                              | 0.46 | 634.17| +3.30 |407.60 | Moderate (Beta: 1.10) | ETF - Broad Market        |Quarterly-3 Month's
+62|NTDOY| Nintendo Co., Ltd.                            | 0.39 | 21.30 | 1.72  | 99.68 | Low (Beta: 0.37)      | Communication Services    |Annual-1 Year
+63|AAPL| Apple Inc.                                     | 0.38 | 276.99| N/A   |4000.00| Moderate (Beta: 1.11) | Technology                |Quarterly-3 Month's
                                                           
 Top Dividend Growth Stocks for 2025
 Dividend growth stocks are companies that have a proven track record of consistently increasing their dividends over many years, making them attractive for long-term income investors seeking both yield and reliability. These often include S&P 500 Dividend Aristocrats (25+ consecutive years of increases) and Dividend Kings (50+ years). Based on recent analyses as of November 2025, I've compiled a list of the top 10 by current dividend yield from these elite groups. Yields are forward estimates and can fluctuate with stock prices.
@@ -174,4 +171,3 @@ These group companies by primary business activities for diversification.
 10. Utilities: Electric, gas, water, multi-utilities, independent power producers
 11. Real Estate: Equity REITs, real estate management/development
 12. coming soon Crypto!
-
